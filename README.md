@@ -1,1 +1,1 @@
-PostgreSQL - TurkStudentCo Ödev 1
+PostgreSQL - TurkStudentCo Ödevler
