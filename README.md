@@ -26,6 +26,3 @@ Veritabanı aşağıdaki tablolardan oluşmaktadır:
 * **Zaman Damgaları:** Kayıt ve işlem zamanları `TIMESTAMP WITH TIME ZONE` veri tipi ile tutulur.
 * **Çok-Çok İlişkisi Yönetimi:** Eğitimler ve kategoriler ile kullanıcılar ve eğitimler arasındaki çok-çok ilişkileri ayrı ara tablolar ile doğru bir şekilde modellenmiştir.
 
-## Kullanım
-
-Bu `EgitimPlatform.sql` dosyası, bir PostgreSQL veritabanında çalıştırılarak bu şemayı oluşturabilir.
